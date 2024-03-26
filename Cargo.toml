@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 rustube = "0.6.0"
 gtk = "0.18.1"
+tokio = "1.36.0"
+full = "0.1.0"
